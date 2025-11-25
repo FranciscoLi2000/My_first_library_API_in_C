@@ -1,4 +1,4 @@
-# mylib - 专业级 C 函数库 | Professional C Library
+# 专业级 C 函数库 | Professional C Library
 
 <div align="center">
 
