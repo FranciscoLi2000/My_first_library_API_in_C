@@ -9,6 +9,7 @@
 #include "../include/get_next_line.h"
 #include "../include/ft_printf.h"
 #include <fcntl.h>
+#include <stdio.h>
 
 static void	demo_string_funcs(void)
 {
