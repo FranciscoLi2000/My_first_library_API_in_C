@@ -1,4 +1,4 @@
-# mylib - Professional C Library Project
+# Professional C Library Project
 
 ## Project Overview
 A production-ready C static library combining libft, get_next_line, and ft_printf into one comprehensive, well-tested library following 42 School Norminette standards.
